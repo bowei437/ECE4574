@@ -1,4 +1,17 @@
-# ECE4574
+# Large Scale Software Development : ECE 4574
+This is the repository for my class at Virginia Tech on Large Scale Software Development. It features code made during a semester long team collaborative project involing developing an algorithim and deploying it into the World Wide Web. SWARM and Docker was used.
+
+In this class, we learned the following things:
+* Initial individual program design requirements and basis
+* Large Scale Repeatable Unit Testing 
+* Collaborative web program development
+* Docker to manage our modular program units for deployment
+* Setting up and utilizing AWS to run our programs and enable Swarming when loads increase
+* Integrating initial program design as input/output of site to learn REST HTTP Methods.
+* Final integration and deployment with a GUI developed on Android as the front end to the program
+
+
+### This project is for a pathfinder used A* which will later be intergrated onto a web module run by AWS.
 
 My code uses four files named
 main.cpp 
